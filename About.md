@@ -1,6 +1,5 @@
 ---
 title: About Jekyll Demo
-layout: default
 ---
 
 # Hello from MarkDown #
