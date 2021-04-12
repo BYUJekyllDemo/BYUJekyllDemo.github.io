@@ -4,3 +4,9 @@ markdown: kramdown
 exclude:
   - README.md
   - docker-compose.yml
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
